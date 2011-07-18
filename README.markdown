@@ -43,7 +43,7 @@ configuration
 -------------
 Use a text editor to edit config.yml.
 
-Ensure that all the keywords you want to be alerted about are present in the list uncomment the action section appropriate to your operating system (either Windows or Linux)
+Ensure that all the keywords you want to be alerted about are present in the list uncomment the action section appropriate to your operating system (either Windows or Linux).
 
 execution
 ---------
