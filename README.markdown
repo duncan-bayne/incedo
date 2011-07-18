@@ -34,6 +34,7 @@ installation
 1. install Ruby from the [Windows One-Click Installer](http://www.ruby-lang.org/en/downloads/)
 2. install [Git for Windows](http://code.google.com/p/msysgit/)
 3. clone git://github.com/duncan-bayne/incedo.git
+
 ### linux
 1. install Ruby, Git and mplayer
 2. clone git://github.com/duncan-bayne/incedo.git
