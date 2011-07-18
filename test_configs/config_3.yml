@@ -1,0 +1,5 @@
+feeds:
+  1: http://www.cfa.vic.gov.au/incidents/incident_summary_rss.xml
+patterns:
+  1: region
+action: echo test > testfile.txt

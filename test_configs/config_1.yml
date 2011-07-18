@@ -1,0 +1,9 @@
+feeds:
+  1: http://www.cfa.vic.gov.au/incidents/incident_summary_rss.xml
+  2: http://www.cfa.vic.gov.au/incidents/incident_updates_rss.xml
+patterns:
+  1: upwey
+  2: belgrave
+  3: tecoma
+  4: lysterfield
+action: echo test > testfile.txt
