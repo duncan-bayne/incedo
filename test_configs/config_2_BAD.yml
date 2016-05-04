@@ -1,8 +1,0 @@
-feeds:
-  1: http://localhost/no/such/feed.xml
-patterns:
-  1: upwey
-  2: belgrave
-  3: tecoma
-  4: lysterfield
-action: echo test > testfile.txt
